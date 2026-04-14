@@ -1,11 +1,32 @@
 Olá, eu sou o Pedro Arthur
 ---
-Desenvolvedor em formação em Engenharia de Software, com foco em arquitetura de sistemas bem estruturados e práticas de qualidade. Possuo experiência prática com operações digitais e automação de processos, o que fortalece minha visão sobre eficiência, organização e confiabilidade em sistemas.
-<td width="30%" align="center">
-  <img src="https://i.postimg.cc/8kLfV1Mg/8bbc9b2b-bb20-47ba-8d91-ffa979393aa5.png" height="160px" style="border-radius: 12px;">
-</td>
+<table>
+  <tr>
+    <td width="65%">
+      Desenvolvedor em formação em Engenharia de Software, com foco em arquitetura de sistemas bem estruturados e práticas de qualidade. Possuo experiência prática com operações digitais e automação de processos, o que fortalece minha visão sobre eficiência, organização e confiabilidade em sistemas.
+    </td>
+    <td width="35%" align="center">
+      <div style="
+        padding: 4px;
+        border-radius: 18px;
+        background: linear-gradient(135deg, #00C9FF, #92FE9D, #A18CD1);
+      ">
+        <img 
+          src="https://i.postimg.cc/8kLfV1Mg/8bbc9b2b-bb20-47ba-8d91-ffa979393aa5.png" 
+          height="180px"
+          style="
+            display: block;
+            border-radius: 14px;
+            box-shadow: 0px 10px 25px rgba(0,0,0,0.4);
+          "
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
+
 🛠️ Tecnologias
 
 <div style="display: inline_block">
@@ -26,8 +47,6 @@ Desenvolvedor em formação em Engenharia de Software, com foco em arquitetura d
 <a href="https://www.linkedin.com/in/pedro-arthurr/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-
 </div>
 
 ---
