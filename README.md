@@ -10,6 +10,13 @@ Oiii! Eu sou o Pedro Arthur
 </div>
 
 ---
+
+<td width="30%" align="center">
+  <img src="https://i.postimg.cc/8kLfV1Mg/8bbc9b2b-bb20-47ba-8d91-ffa979393aa5.png" height="160px" style="border-radius: 12px;">
+</td>
+
+
+---
 <div> 
 <a href="mailto:pa7993287@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
