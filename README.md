@@ -47,9 +47,7 @@ Olá, eu sou o Pedro Arthur
 <a href="https://www.linkedin.com/in/pedro-arthurr/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://curriculo-html-one.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Currículo-00C9FF?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+
 
 </div>
 
