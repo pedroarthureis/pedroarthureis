@@ -29,9 +29,6 @@ Oiii! Eu sou o Pedro Arthur
 
 ---
 
-## 🐍 Contribuições (cobra)
-
-![Snake animation](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroarthureis/pedroarthureis/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroarthureis/pedroarthureis/output/github-contribution-grid-snake.svg">
