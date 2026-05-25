@@ -27,34 +27,120 @@ Olá, eu sou o Pedro Arthur
 
 ---
 
-🛠️ Tecnologias
+## Minhas Stacks 🛠️
 
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ts" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
+<br>HTML5
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
+<br>CSS3
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+<br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
+<br>React
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px"/>
+<br>Figma
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+<br>Python
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
+<br>TypeScript
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
+<br>MySQL
+</td>
+
+</tr>
+</table>
 
 ---
-📩 Contato
-<div> 
-<a href="mailto:pa7993287@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+## OTHER COMPONENTS
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
+<br>Git
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/>
+<br>GitHub
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
+<br>VS Code
+</td>
+
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/2620/2620277.png" width="50px"/>
+<br>Scrum
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px"/>
+<br>Windows
+</td>
+
+</tr>
+</table>
+
+## 📩 CONTATO
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<a href="mailto:pa7993287@gmail.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="55px"/>
 </a>
+<br><br>
+Gmail
+</td>
+
+<td align="center" width="120">
 <a href="https://www.linkedin.com/in/pedro-arthurr/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55px"/>
 </a>
+<br><br>
+LinkedIn
+</td>
 
+</tr>
+</table>
 
-</div>
-
----
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroarthureis/pedroarthureis/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroarthureis/pedroarthureis/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedroarthureis/pedroarthureis/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+
