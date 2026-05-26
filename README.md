@@ -107,9 +107,13 @@ Olá, eu sou o Pedro Arthur
 <br>Windows
 </td>
 
+<td align="center">
+<img src="https://www.google.com/s2/favicons?domain=tray.com.br&sz=128" width="50px"/>
+<br>Tray
+</td>
+
 </tr>
 </table>
-
 ## 📩 CONTATO
 
 <table>
